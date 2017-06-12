@@ -13,7 +13,7 @@ import net.minecraftforge.fml.relauncher.SideOnly;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-@Mod(modid = Lagssie.MODID, version = Lagssie.VERSION, acceptableRemoteVersions = "*", acceptedMinecraftVersions = "[1.9,1.12)")
+@Mod(modid = Lagssie.MODID, version = Lagssie.VERSION, acceptableRemoteVersions = "*", acceptedMinecraftVersions = "[1.9,1.13)")
 public class Lagssie {
     public static final String MODID = "lagssie";
     public static final String VERSION = "@VERSION@";
